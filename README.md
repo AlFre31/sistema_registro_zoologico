@@ -1,0 +1,1 @@
+Sistema tipo web para almacenar información relativa a los zoológicos existentes en el mundo, así como las especies animales. Permite registrar, editar y eliminar datos de zoológicos y animales. Se utilizó PHP, JavaScript, CSS, HTML y el Framework Bootstrap principalmente.
